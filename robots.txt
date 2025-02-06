@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://pamis-wang.github.io/sitemap.xml
+Sitemap: https://pamis.dev/sitemap.xml
